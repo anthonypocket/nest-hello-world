@@ -2,6 +2,10 @@ branch-defaults:
   master:
     environment: nest-hello-world-dev
     group_suffix: null
+environment-defaults:
+  nest-hello-world-dev:
+    branch: null
+    repository: null
 global:
   application_name: nest-hello-world
   branch: null
