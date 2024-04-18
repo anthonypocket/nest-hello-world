@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: nest-hello-world-dev
+    environment: nest-hello-world
     group_suffix: null
 environment-defaults:
   nest-hello-world-dev:
